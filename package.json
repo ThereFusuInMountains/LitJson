@@ -1,0 +1,23 @@
+{
+  "name": "com.hezuyan.litjson",
+  "displayName": "litjson",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "unityRelease":"",
+  "description": "json-tool",
+  "keywords": [],
+  "type": "tool",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "dependencies": {
+	  "com.unity.ugui": "1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": {
+    "name": "何足言",
+    "email": "",
+    "url": ""
+  }
+}
