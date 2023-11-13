@@ -1,6 +1,6 @@
 {
-  "name": "com.hezuyan.litjson",
-  "displayName": "litjson",
+  "name": "@hezuyan/litsjon",
+  "displayName": "LitJson",
   "version": "0.0.1",
   "unity": "2020.3",
   "unityRelease":"",
@@ -13,7 +13,7 @@
 	  "com.unity.ugui": "1.0.0"
   },
   "publishConfig": {
-    "registry": "https://github.com/HeZuYan/LitJson.git"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": {
     "name": "何足言",
